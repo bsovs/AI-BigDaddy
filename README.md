@@ -1,2 +1,2 @@
 # AI-BigDaddy
-Start of Python AI.
+Start of Python Chat Bot.
